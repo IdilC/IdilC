@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IdilC
-- 👀 I’m interested in writing code and reading about all things Theology. 
+- 👀 I’m interested in writing code and reading about all things Theology/Psychology. 
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 ali.hfatuma@gmail.com
