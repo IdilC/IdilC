@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IdilC
 - 👀 I’m interested in writing code and reading about all things Theology/Psychology. 
-- 🌱 I’m currently learning JS and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS (REACT) and Python
 - 📫 ali.hfatuma@gmail.com
 
 <!---
